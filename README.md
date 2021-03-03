@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yahallo minna!
+7## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Yahallo minna!
 <p align="center">
 <img src="https://user-images.githubusercontent.com/77515527/106854697-fce66b80-6678-11eb-905d-2b2e1d9bb973.jpg"
   </p>
@@ -19,6 +19,7 @@
   >Banyak fitur yang masih error
   
   >Belum ada APIkey
+  >Cuman Vhtear
   </details>
   
   ##THANKS YANG UDAH LIHAT PROJECT INI
@@ -27,11 +28,11 @@
    "Contact Me On"
   <div align="center">
   
-  > FB          : https://www.facebook.com/taufik.qillah.73
+ 
   
-  > IG          : https://www.instagram.com/gamerz_garena
+  > IG          : https://www.instagram.com/ahmad_prasetyo7
   
-  > WhatsApp    : https://wa.wizard.id/2fd29f
+  > WhatsApp    : https://wa.me/6287869984953
   
-  > grub BOT    : https://chat.whatsapp.com/ESmqd9FPBu4Hu9VEF7De2p
+  > grub BOT    : https://chat.whatsapp.com/HFqGYcWMJysAr9iJb3KuTB
   
